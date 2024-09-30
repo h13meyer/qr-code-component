@@ -16,7 +16,7 @@ main {
     align-items: center;
 }
 .card {
-    max-width: 275px;
+    max-width: 300px;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 10px;    
