@@ -3,7 +3,7 @@ body {
     font-family: Outfit;
     margin: 0;
 }
-.page {
+main {
     height: calc(100vh - 50px);
     display: flex;
     flex-direction: column;
